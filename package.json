@@ -1,0 +1,30 @@
+{
+  "name": "flower_encyclopedia",
+  "version": "1.0.0",
+  "description": "project about description of flowers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/94marianag/Flower_Encyclopedia.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "94marianag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/94marianag/Flower_Encyclopedia/issues"
+  },
+  "homepage": "https://github.com/94marianag/Flower_Encyclopedia#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

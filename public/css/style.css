@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+body {
+  background: #eec8e4;
+  background: linear-gradient(to right, #f570d4, #eec8e4);
+}
