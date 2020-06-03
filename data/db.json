@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Tulipa purissima",
+        "family": "Liliaceae",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Tulipa_%27Purissima%27.JPG/800px-Tulipa_%27Purissima%27.JPG"
+    },
+    {
+        "id": 2,
+        "name": "Gerbera",
+        "family": "Asteraceae",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/White_Gerbera_04.jpg/800px-White_Gerbera_04.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Zantedeschia aethiopica",
+        "family": "Aráceas",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zantedeschia_aethiopica_III.jpg/1024px-Zantedeschia_aethiopica_III.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Rosa",
+        "family": "Rosáceas",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rosa_%27Ambiente%27%2C_Bad_W%C3%B6rishofen%2C_Alemania%2C_2019-06-20%2C_DD_25.jpg/800px-Rosa_%27Ambiente%27%2C_Bad_W%C3%B6rishofen%2C_Alemania%2C_2019-06-20%2C_DD_25.jpg"
+    }
+]
